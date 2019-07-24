@@ -1,0 +1,8 @@
+ Volume in drive C is System
+ Volume Serial Number is 7403-98D4
+
+ Directory of C:\Users\kussharm\Desktop\My GIT Project
+
+07/24/2019  05:07 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               0 Dir(s)  107,155,107,840 bytes free
